@@ -9,7 +9,7 @@ The project is organized into several sections:
 
 1. **Data Exploration**: The dataset consists of multiple CSV files containing measurements for different neuron groups. The analysis begins by loading and inspecting the data, identifying missing values, and summarizing the dataset dimensions.
 
-2. **Statistical Analysis**: Statistical tests, such as t-tests, are performed to compare properties between neuron groups. The results are presented with t-scores and p-values, leading to conclusions about significant differences.
+2. **Statistical Analysis**: Statistical tests, such as t-tests, were performed to compare properties between neuron groups. The results are presented with t-scores and p-values, leading to conclusions about significant differences.
 
 3. **Correlation Analysis**: The Pearson correlation coefficient is computed to assess the relationships between morphological features. The analysis identifies strongly correlated pairs and highlights influential factors affecting neuron morphology.
 
